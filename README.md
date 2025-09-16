@@ -20,8 +20,10 @@ It combines weather forecasts with a dynamic packing checklist to make travel pl
 The core functionality is working: weather forecast fetch and packing checklist are functional.  
 Users can customize their checklist. Further UI enhancements and additional features are planned.
 
-## 📸 Screenshots / Demo
-
+## 📸 Screenshots 
+https://github.com/perlerebeka/PackingApp/blob/master/packing_screenshots/Packing_Dashboard.PNG
+https://github.com/perlerebeka/PackingApp/blob/master/packing_screenshots/Packing_checklist.PNG
+https://github.com/perlerebeka/PackingApp/blob/master/packing_screenshots/Packing_home.PNG
 
 ## 🎨 Credits
 - App and UI developed by me  
